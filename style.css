@@ -1,5 +1,7 @@
 h1 {
 	font-family: verdana;
+	border-width: 5px;
+	border-style: solid;
 }
 
 body {
